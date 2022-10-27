@@ -1,0 +1,8 @@
+a0545486,PAYMENT,WITHDRAW
+            a0545486, ADVICE,                         FAIL
+a0545480        , PAYMENT    , SUCCESS
+a0545480 ,                PAYMENT       , FAIL
+    b0545483  ,             PAYMENT , SUCCESS
+d05c5480 , ADVICE, WITHDRAW
+d05g5480 , PAYMENT, FAIL
+ e05f5483   , ADVICE,     WITHDRAW
